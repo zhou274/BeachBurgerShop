@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4DA7D578-0245-6625-14CD-23283ABADE90}</ProjectGuid>
+    <ProjectGuid>{8982DD36-0213-5476-6351-151E2F7A8F63}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>TTWebGL</AssemblyName>
@@ -982,7 +982,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="TTLitJson.csproj">
-      <Project>{912298F1-B577-12F9-5B12-61638B83843F}</Project>
+      <Project>{0CFDEB13-B043-E255-DCD2-5FCB5B3F4963}</Project>
       <Name>TTLitJson</Name>
     </ProjectReference>
   </ItemGroup>

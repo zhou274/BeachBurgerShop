@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6C8EDDCF-B85B-A6D1-9F16-5839738EB1C0}</ProjectGuid>
+    <ProjectGuid>{B4077E61-6DFC-6E0A-A893-373FE8413554}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.bytedance.ttsdk-editor</AssemblyName>

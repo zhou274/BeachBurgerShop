@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FDE25FA9-F0B9-4438-CE9D-06D065F98BDC}</ProjectGuid>
+    <ProjectGuid>{C53E32C4-8A1A-764D-EA82-B514D65C23AE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1046,15 +1046,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="com.bytedance.ttsdk-editor.csproj">
-      <Project>{6C8EDDCF-B85B-A6D1-9F16-5839738EB1C0}</Project>
+      <Project>{B4077E61-6DFC-6E0A-A893-373FE8413554}</Project>
       <Name>com.bytedance.ttsdk-editor</Name>
     </ProjectReference>
     <ProjectReference Include="TTLitJson.csproj">
-      <Project>{912298F1-B577-12F9-5B12-61638B83843F}</Project>
+      <Project>{0CFDEB13-B043-E255-DCD2-5FCB5B3F4963}</Project>
       <Name>TTLitJson</Name>
     </ProjectReference>
     <ProjectReference Include="TTWebGL.csproj">
-      <Project>{4DA7D578-0245-6625-14CD-23283ABADE90}</Project>
+      <Project>{8982DD36-0213-5476-6351-151E2F7A8F63}</Project>
       <Name>TTWebGL</Name>
     </ProjectReference>
   </ItemGroup>

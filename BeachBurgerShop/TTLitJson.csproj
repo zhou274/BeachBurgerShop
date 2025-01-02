@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{912298F1-B577-12F9-5B12-61638B83843F}</ProjectGuid>
+    <ProjectGuid>{0CFDEB13-B043-E255-DCD2-5FCB5B3F4963}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>TTLitJson</AssemblyName>

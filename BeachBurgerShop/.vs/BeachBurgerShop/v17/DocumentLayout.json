@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\shop\\shopitemproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\shop\\shopitemproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\shop\\moneycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\shop\\moneycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\shop\\coinpackproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\shop\\coinpackproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\productmanager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\productmanager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\maincontrollerexamples\\maingamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\maincontrollerexamples\\maingamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\trashbincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\trashbincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\texturescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\texturescroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\textmeshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\textmeshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\siderequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\siderequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\siderequestmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\siderequestmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\sfxplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\sfxplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\productmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\productmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\platecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\platecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\heartbeatanimationeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\heartbeatanimationeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\grillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\grillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\coffeemakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\coffeemakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\candymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\candymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\generic\\candycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\generic\\candycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\customers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\customers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\career\\careermapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\career\\careermapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|d:\\unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\beachburgershop\\assets\\restaurantkit\\scripts\\career\\careerlevelsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53E32C4-8A1A-764D-EA82-B514D65C23AE}|Assembly-CSharp.csproj|solutionrelative:assets\\restaurantkit\\scripts\\career\\careerlevelsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopItemProperties.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\ShopItemProperties.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Shop\\ShopItemProperties.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\ShopItemProperties.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Shop\\ShopItemProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:59.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\ShopController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Shop\\ShopController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\ShopController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Shop\\ShopController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAUwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoneyController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\MoneyController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Shop\\MoneyController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\MoneyController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Shop\\MoneyController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:50.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoinpackProperties.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\CoinpackProperties.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Shop\\CoinpackProperties.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Shop\\CoinpackProperties.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Shop\\CoinpackProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\ProductManager\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\ProductManager\\ProductManager.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\ProductManager\\ProductManager.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\ProductManager\\ProductManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainGameController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\MainControllerExamples\\MainGameController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\MainControllerExamples\\MainGameController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\MainControllerExamples\\MainGameController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\MainControllerExamples\\MainGameController.cs",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAIwKYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrashBinController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\TrashBinController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\TrashBinController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\TrashBinController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\TrashBinController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:30.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextureScroller.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\TextureScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\TextureScroller.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\TextureScroller.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\TextureScroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextMeshController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\TextMeshController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\TextMeshController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\TextMeshController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\TextMeshController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:21.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SideRequestsController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestsController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestsController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestsController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestsController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:17.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SideRequestMover.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestMover.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestMover.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestMover.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\SideRequestMover.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAQwEgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:13.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SfxPlayer.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\SfxPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\SfxPlayer.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\SfxPlayer.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\SfxPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductMover.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\ProductMover.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\ProductMover.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\ProductMover.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\ProductMover.cs",
+              "ViewState": "AgIAAK4BAAAAAAAAAAAYwM0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlateController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\PlateController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\PlateController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\PlateController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\PlateController.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwMwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:16:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\PauseManager.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\PauseManager.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAUwBQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\IngredientsController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\IngredientsController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\IngredientsController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:47.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HeartBeatAnimationEffect.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\HeartBeatAnimationEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\HeartBeatAnimationEffect.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\HeartBeatAnimationEffect.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\HeartBeatAnimationEffect.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:43.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GrillController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\GrillController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\GrillController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\GrillController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\GrillController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CoffeeMakerController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\CoffeeMakerController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\CoffeeMakerController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\CoffeeMakerController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\CoffeeMakerController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CandyMover.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\CandyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\CandyMover.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\CandyMover.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\CandyMover.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:29.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CandyController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\CandyController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Generic\\CandyController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Generic\\CandyController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Generic\\CandyController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:25.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Customers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Customers\\CustomerController.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Customers\\CustomerController.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Customers\\CustomerController.cs",
+              "ViewState": "AgIAADECAAAAAAAAAAAUwE8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:19.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CareerMapManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Career\\CareerMapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Career\\CareerMapManager.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Career\\CareerMapManager.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Career\\CareerMapManager.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAUwOcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:15:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CareerLevelSetup.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Career\\CareerLevelSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\RestaurantKit\\Scripts\\Career\\CareerLevelSetup.cs",
+              "ToolTip": "D:\\Unity\\\u6C99\u6EE9\u6C49\u5821\u5E97\\BeachBurgerShop\\Assets\\RestaurantKit\\Scripts\\Career\\CareerLevelSetup.cs",
+              "RelativeToolTip": "Assets\\RestaurantKit\\Scripts\\Career\\CareerLevelSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:14:19.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
