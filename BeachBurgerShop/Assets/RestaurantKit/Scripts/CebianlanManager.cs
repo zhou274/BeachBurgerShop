@@ -4,11 +4,13 @@ using System.Collections.Generic;
 using TTSDK.UNBridgeLib.LitJson;
 using TTSDK;
 using UnityEngine;
+using static StarkSDKSpace.StarkGridGamePanelManager;
 
 public class CebianlanManager : MonoBehaviour
 {
     public GameObject CebainlanUI;
     public string clickid;
+    private StarkGridGamePanelManager mStarkGridGamePanelManager;
 
 
     private void Start()
@@ -46,8 +48,24 @@ public class CebianlanManager : MonoBehaviour
 
         apiSend("active", clickid);
 
+        showGridGame();
+
+    }
 
 
+    public void showGridGame()
+    {
+        mStarkGridGamePanelManager = StarkSDK.API.GetStarkGridGamePanelManager();
+        if (mStarkGridGamePanelManager != null)
+        {
+            JsonData query = new JsonData();
+            query["tt1a886c3585bcfef507"] = "";
+            JsonData position = new JsonData();
+            position["top"] = 150;
+            position["left"] = 30;
+            StarkGridGamePanel mStarkGridGamePanel = mStarkGridGamePanelManager.CreateGridGamePanel(GridGamePanelCount.One, query, GridGamePanelSize.Large, position);
+            mStarkGridGamePanel.Show();
+        }
     }
 
 
@@ -107,12 +125,7 @@ public class CebianlanManager : MonoBehaviour
         {
             Debug.Log("Unity message init sdk callback");
 
-            var data = new JsonData
-            {
-                ["scene"] = "sidebar",
-                ["activityId"] = "7368350593716338729",
-            };
-            TT.NavigateToScene(data, () =>
+            StarkSDK.API.GetStarkSideBarManager().NavigateToScene(StarkSideBar.SceneEnum.SideBar, () =>
             {
                 Debug.Log("navigate to scene success");
             }, () =>

@@ -19,7 +19,7 @@ public class AddCoinPanel : MonoBehaviour
     // Update is called once per frame
     public void AddCoins()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("4930dhdga214l8qf13",
             (bol) => {
                 if (bol)
                 {
