@@ -44,7 +44,8 @@ public class MainGameController : MonoBehaviour {
 	public GameObject endGamePlane;			//main endgame plane
 	public GameObject endGameStatus;		//gameobject which shows the texture of win/lose states
 	public Texture2D[] endGameTextures;		//textures for win/lose states
-	public GameObject nextButton;			//next button loads the next available level when player beats a level
+	public GameObject nextButton;           //next button loads the next available level when player beats a level
+	public GameObject ContinueButton;
 	//*****
 
 	//static variables. do not touch!
@@ -379,6 +380,7 @@ public class MainGameController : MonoBehaviour {
 
 			//show next level button
 			nextButton.SetActive (true);
+			ContinueButton.SetActive(false);
 			
 		} else if(gameMode == "FREEPLAY" && totalMoneyMade >= requiredBalance) {
 		

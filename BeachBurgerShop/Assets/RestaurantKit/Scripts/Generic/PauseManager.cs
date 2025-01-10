@@ -139,7 +139,7 @@ public class PauseManager : MonoBehaviour {
             (bol) => {
                 if (bol)
                 {
-                    MainGameController.instance.availableTime += 10;
+                    MainGameController.instance.availableTime += 30;
                     MainGameController.gameIsFinished = false;
                     MainGameController.instance.endGamePlane.SetActive(false);
 
