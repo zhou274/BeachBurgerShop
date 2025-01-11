@@ -24,7 +24,7 @@ public class AddCoinPanel : MonoBehaviour
                 if (bol)
                 {
 
-                    int money = PlayerPrefs.GetInt("PlayerMoney") + 50;
+                    int money = PlayerPrefs.GetInt("PlayerMoney") + 100;
                     PlayerPrefs.SetInt("PlayerMoney", money);
                     SceneManager.LoadScene("Menu-c#");
 
@@ -38,12 +38,12 @@ public class AddCoinPanel : MonoBehaviour
                 }
                 else
                 {
-                    StarkSDKSpace.AndroidUIManager.ShowToast("¹Û¿´ÍêÕûÊÓÆµ²ÅÄÜ»ñÈ¡½±ÀøÅ¶£¡");
+                    StarkSDKSpace.AndroidUIManager.ShowToast("ï¿½Û¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æµï¿½ï¿½ï¿½Ü»ï¿½È¡ï¿½ï¿½ï¿½ï¿½Å¶ï¿½ï¿½");
                 }
             },
             (it, str) => {
                 Debug.LogError("Error->" + str);
-                //AndroidUIManager.ShowToast("¹ã¸æ¼ÓÔØÒì³££¬ÇëÖØÐÂ¿´¹ã¸æ£¡");
+                //AndroidUIManager.ShowToast("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ì³£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½æ£¡");
             });
         
     }
@@ -59,7 +59,7 @@ public class AddCoinPanel : MonoBehaviour
             foreach (KeyValuePair<string, string> kv in launchOpt.Query)
                 if (kv.Value != null)
                 {
-                    Debug.Log(kv.Key + "<-²ÎÊý-> " + kv.Value);
+                    Debug.Log(kv.Key + "<-ï¿½ï¿½ï¿½ï¿½-> " + kv.Value);
                     if (kv.Key.ToString() == "clickid")
                     {
                         clickid = kv.Value.ToString();
@@ -67,7 +67,7 @@ public class AddCoinPanel : MonoBehaviour
                 }
                 else
                 {
-                    Debug.Log(kv.Key + "<-²ÎÊý-> " + "null ");
+                    Debug.Log(kv.Key + "<-ï¿½ï¿½ï¿½ï¿½-> " + "null ");
                 }
         }
     }
